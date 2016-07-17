@@ -1,0 +1,17 @@
+{
+  "name": "frontend",
+  "description": "",
+  "main": "index.js",
+  "authors": [
+    "Andres Arias <aarias@iluv2code.com>"
+  ],
+  "license": "ISC",
+  "homepage": "https://github.com/aariasc/angular-sociallogins-demo",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
